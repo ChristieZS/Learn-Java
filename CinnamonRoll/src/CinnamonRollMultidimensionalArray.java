@@ -1,4 +1,4 @@
-public class CinnamonRoll {
+public class CinnamonRollMultidimensionalArray {
 
 	public static void main(String[] args) {	
 		int [] [] magic = {
