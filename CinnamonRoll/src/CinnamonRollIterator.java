@@ -2,7 +2,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.ListIterator;
 
-public class CinnamonRoll {
+public class CinnamonRollIterator {
 
 	public static void main(String[] args) {	
 
